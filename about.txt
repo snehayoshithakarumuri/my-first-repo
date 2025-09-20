@@ -1,3 +1,0 @@
-Name: Karumuri.sneha yoshitha
-Course : BCA
-One Thing about GitHub:Story points are a relative measure of the effort, complexity, and uncertainty involved in completing a task or "user story" within a project.
